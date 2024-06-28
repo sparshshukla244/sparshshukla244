@@ -16,7 +16,7 @@ h1 align="center">Hi 👋, I'm Sparsh Shukla</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sparsh shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/shuklaji2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuklaji2401" height="30" width="40" /></a>
+<a href=https://www.instagram.com/shuklaji_2401?igsh=MWF0Y2I2Njhsc2w3aA==><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuklaji2401" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sparshshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sparshshukla" height="30" width="40" /></a>
 </p>
 
